@@ -1,0 +1,1 @@
+SmartCARE is a simple and efficient healthcare platform that allows patients to book medical appointments online. The system connects Patients, Admins, and Doctors in one place to ensure quick confirmations and automated email notifications.
